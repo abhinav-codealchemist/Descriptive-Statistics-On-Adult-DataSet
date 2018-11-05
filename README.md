@@ -1,4 +1,4 @@
-# Descriptive-Statistics-On-Adult-DataSet
+# Descriptive Statistics On "Adult" DataSet
 
 Descriptive Statistics on "Adult" DataSet, hosted on the UCI’s Machine Learning Repository.
 
